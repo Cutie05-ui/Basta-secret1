@@ -38,6 +38,11 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Converge", TV5 (Converge)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Shakzz", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -78,13 +83,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 group-title="Shakzz",Sinemanila
-https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/Zhm8xDfVoSv6GQd6XPu78Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e8931da0-9034-11f0-b1f8-2f943512580f" group-title="Shakzz",Canelo Alvarez vs Terence Crawford
-https://lb4.strmd.top/secure/xhPoPKRDXZwvfssuPrNnAuWktGWeFcxa/delta/stream/live-event_canelo-alvarez-vs-terence-crawford-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/Zhm8xDfVoSv6GQd6XPu78Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2025-09/e8931da0-9034-11f0-b1f8-2f943512580f" group-title="Shakzz",Canelo Alvarez vs Terence Crawford 2
-https://use11.playlist.ttvnw.net/v1/playlist/CtoGpbQsxVSFc6tu0t8c4u4erhjsMgelNm0LJatUMREoHrXLBXNlGUAB_Zs_c_dbpQ35VjQ_zs6vhAjJ81Jp3YWgze5UTbDq57Us5yea3Vt4q5H4xfWyZ1l8WwTviB59tntJVwFxaRkZlxySp_pgNTkaz53Z3l9eYfruqAsHwv50oxPM8R6_d-60iiG7W8KbjxFuS_duBOMtwJmgmtYxSIKYN058We2suHXYZxxbutjVfZhAry9j96L_M8DTkhsl8YwCm_OMfESas43DmSl0V6LlVpXmN0AN70Q9yNLK_D8TVjyREvnU_1qpRAxGG9ZSz09z4fbGlIa70YaNuF22y9aKyvE_sQkBZEQu0hGfDzY9pg5khCKMVN_FW-8mnDIgL7IfZ8-wWpFCw7x5djyiurTHj8p4WNGJ7juEKz7p1L95RlfohDecjP6TpCZUlSCexqHR0QMCZ-nstFiYFrKBppndGaw7q2lwAiZiqFJzwlwon_GBaR65d_cTiiN1j6zpDAw9gHXSc0uNF8MDtRlcbRvje01dRP4pSe6vsrKeQcUpRHl-msB8RU83tuMNaq-oNqfefXNbfZv6gD6B7XRaZXuV2HcTuWzVlDbfbyK7LhJ25UqKdY6jY2ETWz-45IFyLZnFhC7UtQhkRTMgWfkrtPtBu6x_jnwUqXzco61VpTx_3x4sc6pLliSBdoiny_baD4tM5Qci8J-JDa7sVPQh_Q9ZkHjpDF4tbYFdihXtJS9ZIb7pYr9VRORhcPT1NtdYoDqkI0wfH8RUwaqpyY7DZ1bpUNobDeJxJcFZyQbHRUMnO5q4XQMiw3bxeQoRQSSpmE5pfT3sJ8NHGN8HU_phEXVUNHSz51v94aSwm0XvhOItsXxUwkwiF6t8oiIenC5e7dbAlgOQfY5qneiV1OUgRJd4ul_v97hN-Z5OaKxrLJLwLioAWVxGO-XMjNWDhL8YKNaEkorPmNsBzYGFKo1WWZXTzvatkoCl7Kqr8gerFIA5k0ygchW6DGT4z-KKTXtQwOYbFKdYv7eV8Q0n9fDTRCrfJWCB5HnLGgyvpnspQwK89d3O-3KNeScjjEACFVWkPq0brhen5X-vXQlgVHR7UiIgmp62Y1o78ceDH0SgVQ1zn9e6VKzdDDuE1UPHGgy7sfHN7XnLXEq19_kgASoJdXMtZWFzdC0yMJwN.m3u8
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u
 
 
 ###### FORGER ######
@@ -565,7 +564,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Converge", MYX Philippines
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -588,12 +587,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Converge", Bilyonaryo Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Converge", TV5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Converge", A2Z
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -603,17 +602,17 @@ http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Converge", NET 25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Converge", IBC 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="Converge", UNTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Converge", PTV4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -718,7 +717,7 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="Converge", Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha CCM Movies Channel
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge", Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,7 +742,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001196/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Converge", Solarflix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Converge", Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -773,7 +772,7 @@ http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?JITPDRMType
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Converge", One Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&amp;virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="Converge", Motor Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
